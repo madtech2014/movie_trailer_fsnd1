@@ -11,7 +11,7 @@ shogun_assassin = media.Movie("Shogun Assassin", "A Samurai Warrior and his son 
 #shogun_assassin.show_trailer()
 #print (shogun_assassin.storyline)
 
-tombstone = media.Movie("Tombstone", "A sheriff and his brothers try to clean up a town", "http://img.moviepostershop.com/tombstone-movie-poster-1993-1010259614.jpg", "https://www.youtube.com/watch?v=0JjRoh13vzY")
+tombstone = media.Movie("Tombstone", "A sheriff and his brothers try to clean up a town", "http://img.moviepostershop.com/tombstone-movie-poster-1993-1010259614.jpg", "https://www.youtube.com/watch?v=IPS7xnVh4qk")
 
 blade = media.Movie("Blade", "A half-man half-vampire called a 'daywalker' tries to avenge his mother's death", "http://www.impawards.com/2004/posters/blade_trinity.jpg", "https://www.youtube.com/watch?v=kaU2A7KyOu4")
 
