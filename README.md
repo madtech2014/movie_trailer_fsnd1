@@ -7,9 +7,12 @@ Creation of a HTML page with Movie Favorites that will display
         Trailer will launch when movie poster art is clicked
 Webpage will lauch in your default browser and all you have to do to enjoy this experience is click the link below or cut and paste in your browser. 
 
+http://madtech2014.github.io/movie_trailer_fsnd1
+
 Sources:
     -Udacity 
         Programming Foundations with Python
         https://discussions.udacity.com/c/nd004-full-stack-broadcast
     -https://www.thinkful.com/learn/a-guide-to-using-github-pages
     -https://www.codecademy.com/learn
+    
