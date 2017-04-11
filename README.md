@@ -13,13 +13,13 @@ http://madtech2014.github.io/movie_trailer_fsnd1
 To run program locally:
 Download file from github using "Open on deskstop" or "Download Zip" under the Clone or Download tab.
 
-https://github.com/madtech2014/movie_trailer_fsnd1
-   
+https://github.com/madtech2014/movie_trailer_fsnd1   
 Launch program in a local browser with the index.html file in downloaded folder.
 
 If you have already downloaded Python on your pc you have two other options:
 
 http://www.python.org
+
 You can run program from Idle- which will create new html files and recompie the Python program by first creating a new folder and adding the following three files:
 
     -entertainment_center.py
