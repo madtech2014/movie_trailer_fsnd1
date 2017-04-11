@@ -13,26 +13,13 @@ http://madtech2014.github.io/movie_trailer_fsnd1
 To run program locally:
 Download file from github using "Open on deskstop" or "Download Zip" under the Clone or Download tab.
 
-    https://github.com/madtech2014/movie_trailer_fsnd1
-
-Launch program locally with the index.html file in downloaded folder.
-
-To generate your own local the html files create folder with the following files inside:
-
-    -entertainment_center.py
-    -media.py
-    -fresh_tomatoes.py
-Open the Python idle application and run the entertainment_center.py file which will launch in you default browser the movie listins and you will get the following additional files:
-
-    -fresh_tomatoes.html
-    -fresh_tomatoes.pyc(the compiled python file)
-    -media.pyc(the compiled python media file)
-
-=======
-Launch program locally with the index.html file in downloaded folder. 
+https://github.com/madtech2014/movie_trailer_fsnd1
+   
+Launch program in a local browser with the index.html file in downloaded folder.
 
 If you have already downloaded Python on your pc you have two other options:
-    http://www.python.org
+
+http://www.python.org
 You can run program from Idle- which will create new html files and recompie the Python program by first creating a new folder and adding the following three files:
 
     -entertainment_center.py
