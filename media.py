@@ -1,6 +1,7 @@
 import webbrowser
 
 class Movie():
+    """ uses the init and the show_traler fucnctions to create instances of movies that will display on webpage with title, storyline, poster art, and a viewable trailer"""
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
         self.title = movie_title
         self.storyline = movie_storyline
