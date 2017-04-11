@@ -10,6 +10,11 @@ Webpage will lauch in your default browser and all you have to do to enjoy this 
 
 http://madtech2014.github.io/movie_trailer_fsnd1
 
+To run program locally:
+Download file from github using "Open on deskstop" or D"ownload Zip" under the Clone or Download tab.
+    https://github.com/madtech2014/movie_trailer_fsnd1
+Launch program locally with the index.html file in downloaded folder.  
+
 Sources:
     -Udacity 
         Programming Foundations with Python
