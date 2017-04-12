@@ -88,7 +88,7 @@ main_page_head = '''
 
 # The main page layout and title bar
 main_page_content = '''
-  <body>
+  <body style="background-color:hsla(0,100%,50%,0.5);">
     <!-- Trailer Video Modal -->
     <div class="modal" id="trailer">
       <div class="modal-dialog">
@@ -107,7 +107,7 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Fresh Tomatoes Movie Trailers</a>
+            <a class="navbar-brand" href="#">My Favorite Movies!</a>
           </div>
         </div>
       </div>
