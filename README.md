@@ -16,9 +16,9 @@ Download file from github using "Open on deskstop" or "Download Zip" under the C
 https://github.com/madtech2014/movie_trailer_fsnd1   
 Launch program in a local browser with the index.html file in downloaded folder.
 
-<<<<<<< HEAD
+
 If you have already downloaded Python on your pc you have two other options:
-=======
+
 Launch program locally with the index.html file in downloaded folder.
 
 To generate your own local the html files create a new folder and copy the following files to that folder:
@@ -38,26 +38,18 @@ Open the Python idle application and run the entertainment_center.py file which 
     -fresh_tomatoes.html
     -fresh_tomatoes.pyc(the compiled python file)
     -media.pyc(the compiled python media file)
-<<<<<<< HEAD
+
 Launch program locally with the index.html file in downloaded folder. 
-
-
-=======
->>>>>>> refs/remotes/origin/gh-pages
 
 http://www.python.org
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> refs/remotes/origin/master
 If you have already downloaded Python - http://www.python.org - on your pc you have two other options:
     
 You can run program from Idle- which will create new html files and recompile the Python program by first creating a new folder and adding the following three files:
 
 If you have already downloaded Python on your pc you have two other options:
     http://www.python.org
->>>>>>> refs/remotes/origin/gh-pages
+
 You can run program from Idle- which will create new html files and recompie the Python program by first creating a new folder and adding the following three files:
 
 
